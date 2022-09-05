@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Rasal
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript, typesript, java, c, c++
+- 🌱 I’m currently learning Javascript, Typesript, [Java](https://github.com/Shubham-Rasal/IT150--Mini-Project), C, C++
 
 <!---
 Shubham-Rasal/Shubham-Rasal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
