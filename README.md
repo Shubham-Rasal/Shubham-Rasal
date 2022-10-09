@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
+<h1 align="center">Hi 👋, I'm Shubham Rasal</h1>
 <h3 align="center">A curious full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-rasal&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-rasal" /> </p>
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubham rasal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham rasal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Shubham-Rasal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham rasal" height="30" width="40" /></a>
 <a href="https://instagram.com/shubham rasal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham rasal" height="30" width="40" /></a>
 </p>
 
