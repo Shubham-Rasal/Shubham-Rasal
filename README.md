@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Blockchain in Go**
 
-- 🌱 I’m currently learning **JavaScript,React**
+- 🌱 I’m currently learning **Golang and Typescript**
 
 - 📫 How to reach me **bluequbits@gmail.com**
 
