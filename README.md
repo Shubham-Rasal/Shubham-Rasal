@@ -1,13 +1,11 @@
-# Hi! 👋
-
-I'm **Shubham Rasal**, a tech enthusiast building solutions with AI, Blockchain, and Web.
+Hi! I am Shubham Rasal and welcome to my Github.
 
 ## About
 Passionate about using tech for real-world impact. [Learn more](https://bluequbits.vercel.app/about).
 
-## Tech Stack
+## Tech Stack (Current)
 - **Blockchain**: Solidity, Ethereum, Web3.js
-- **Web**: Nextjs, Node.js, Supabase
+- **Web**: Nextjs, Node.js, Supabase, Go (Backend)
 
 ## Connect
 - [blueq.me](https://blueq.me)
