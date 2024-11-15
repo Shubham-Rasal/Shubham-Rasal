@@ -5,7 +5,7 @@ Passionate about using tech for real-world impact. [Learn more](https://bluequbi
 
 ## Tech Stack (Current)
 - **Blockchain**: Solidity, Ethereum, Web3.js
-- **Web**: Nextjs, Node.js, Supabase, Go (Backend)
+- **Web**: Nextjs, Node.js, Postgres, Go (Backend)
 
 ## Connect
 - [blueq.me](https://blueq.me)
