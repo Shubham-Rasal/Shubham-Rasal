@@ -8,8 +8,7 @@ I like to ideate novel solutions to problems and build stuff.
 - **Web**: Nextjs, Node.js, Postgres, Go (Backend)
 
 ## Connect
-- [blueq.me](https://blueq.me)
-- [LinkedIn](https://www.linkedin.com/in/shubhamrasal)
-- [X](https://x.com/bluequbits)
+
+[X](https://x.com/bluequbits) | [LinkedIn](https://www.linkedin.com/in/shubhamrasal)
 
 ---
