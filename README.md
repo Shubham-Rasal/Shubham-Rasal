@@ -1,7 +1,7 @@
 Hi! I am Shubham Rasal and welcome to my Github.
 
 ## About
-Passionate about using tech for real-world impact. [Learn more](https://bluequbits.vercel.app).
+I like to ideate novel solutions to problems and build stuff.
 
 ## Tech Stack (Current)
 - **Blockchain**: Solidity, Ethereum, Web3.js
