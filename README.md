@@ -4,8 +4,9 @@ Hi! I am Shubham Rasal and welcome to my Github.
 I like to ideate novel solutions to problems and build stuff.
 
 ## Tech Stack (Current)
-- **Blockchain**: Solidity, Ethereum, Web3.js
 - **Web**: Nextjs, Node.js, Postgres, Go (Backend)
+- **AI**: v0, openCV, open-ai
+- **Blockchain**: Solidity, Ethereum, Web3.js
 
 ## Connect
 
