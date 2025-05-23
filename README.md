@@ -1,4 +1,4 @@
-Hi! I am Shubham Rasal and welcome to my Github.
+"It is this pursuit of novelty that separates us from the rest of the animal kingdom, equally as much as it is our intelligence." - Suchit Balaji
 
 ## Connect
 
