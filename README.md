@@ -53,10 +53,6 @@ Building agentic tools, vibe-coded UIs, and infra that ships. High agency, mania
 - 🗄️ **[Groundline](https://github.com/Shubham-Rasal/Agent-Nexus-Protocol/tree/master/groundline)** — Graph DB with persistence on IPFS.
 - ⌨️ **[Autocomplete](https://www.npmjs.com/package/@shubhamrasal/autocomplete)** — React AI code editor component — [npm](https://www.npmjs.com/package/@shubhamrasal/autocomplete).
 
-### Systems
-
-- 🦜 **[parakeet.cpp](https://github.com/Shubham-Rasal/parakeet.cpp)** — Fast Parakeet inference in C++ — Axiom, MPS, CUDA.
-
 ### Product
 
 - 🌾 **[KrishiAI](https://github.com/Shubham-Rasal/KrishiAI)** — App for farmers in India.
