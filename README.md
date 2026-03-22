@@ -1,7 +1,5 @@
 # Hi, I'm Shubham 👋
 
-📍 **India** · 💼 **SWE @ Oracle** · 🎓 **NITK**
-
 TypeScript · React · Node · Rust · Go · Web3 · Agents
 
 Building agentic tools, vibe-coded UIs, and infra that ships. High agency, maniacal urgency.
