@@ -15,7 +15,6 @@ Building agentic tools, vibe-coded UIs, and infra that ships. High agency, mania
 - 🎬 **[sam](https://github.com/Shubham-Rasal/sam)** — Agentic video editor: Remotion timeline, OpenCode agent, FFmpeg (Electron).
 - 🌊 **[OpenVibe](https://github.com/Shubham-Rasal/openvibe)** — Open-source web UI for OpenCode — chat, build, and code with AI.
 - 🧚 **[fairy](https://github.com/Shubham-Rasal/fairy)** — Obsidian plugin: fill placeholders with Gemini, web search, and vault context.
-- 🏠 **[mstudio](https://github.com/Shubham-Rasal/mstudio)** — Main site — Next.js blog and content station.
 
 ### Agents & automation
 
