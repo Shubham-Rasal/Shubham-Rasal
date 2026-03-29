@@ -2,7 +2,7 @@
 
 TypeScript · React · Node · Rust · Go · Web3 · Agents
 
-Building agentic tools, vibe-coded UIs, and infra that ships. High agency, maniacal urgency.
+Building agentic tools, thoughtful interfaces, and infra that ships. High agency, maniacal urgency.
 
 > *"It is the pursuit of novelty that separates us from the rest of the animal kingdom, equally as much as it is our intelligence."* — Suchir Balaji
 
