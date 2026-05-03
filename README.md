@@ -15,6 +15,14 @@ Building agentic tools, thoughtful interfaces, and infra that ships. High agency
 - 🎬 **[sam](https://sam.shubhamrasal.com)** — Agentic video editor: Remotion timeline, OpenCode agent, FFmpeg (Electron).
 - 🌊 **[OpenVibe](https://github.com/Shubham-Rasal/openvibe)** — Open-source web UI for OpenCode — chat, build, and code with AI.
 - 🧚 **[fairy](https://github.com/Shubham-Rasal/fairy)** — Obsidian plugin: fill placeholders with Gemini, web search, and vault context.
+- 🖥️ **[open-conductor](https://github.com/Shubham-Rasal/open-conductor)** — Desktop app to manage local coding agents.
+
+### ML research
+
+- ⛳ **[parameter-golf](https://github.com/Shubham-Rasal/parameter-golf)** — Chasing 1.18 BPB: SmearGate, BigramHash, EMA, int8+zstd in 10 minutes on 8×H100s.
+- 🔬 **[grokking-mlx](https://github.com/Shubham-Rasal/grokking-mlx)** — Replicating the grokking phenomenon in a tiny MLX Transformer on Apple Silicon.
+- ⚡ **[turboquant-mlx](https://github.com/Shubham-Rasal/turboquant-mlx)** — MLX implementation of Google's TurboQuant KV cache compression.
+- 🏦 **[FinArena](https://github.com/Shubham-Rasal/FinArena)** — FinanceOps OpenEnv — enterprise finance RL benchmark.
 
 ### Agents & automation
 
@@ -35,11 +43,13 @@ Building agentic tools, thoughtful interfaces, and infra that ships. High agency
 
 ### DevTools & CLIs
 
+- ☁️ **[skyscale](https://github.com/Shubham-Rasal/skyscale)** — Experimental serverless GPU platform implementation.
 - ✉️ **[resend-cli-og](https://github.com/Shubham-Rasal/resend-cli-og)** — Official Resend CLI (upstream work).
 - 📮 **[resend-cli](https://github.com/Shubham-Rasal/resend-cli)** — Send email programmatically with Resend.
 
 ### Apps & publishing
 
+- 🎵 **[anymusic](https://github.com/Shubham-Rasal/anymusic)** — Mood music guessing game — ElevenHacks hackathon (turbopuffer × ElevenLabs).
 - 📰 **[FreePress](https://github.com/Shubham-Rasal/FreePress)** — Run your own publication on your machine.
 - 🃏 **[cards](https://github.com/Shubham-Rasal/cards)** — Turn any site into a power card.
 - 💬 **[Feedo](https://github.com/Shubham-Rasal/Feedo)** — Collect feedback from users, simply.
